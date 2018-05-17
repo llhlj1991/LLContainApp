@@ -1,0 +1,6 @@
+framework module Pods_LLContainApp_Tests {
+  umbrella header "Pods-LLContainApp_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
